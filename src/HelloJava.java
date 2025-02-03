@@ -1,7 +1,7 @@
 /** 
  * Basic "Hello, world!" Java class
  * @author Brian Borowski
- * @version 1.3, last modified Jan. 27, 2025
+ * @version 1.4, last modified Jan. 27, 2025
  */
 public class HelloJava {
 
